@@ -1,0 +1,39 @@
+# Entornos virtuales
+venv/
+env/
+.env
+*.env
+
+# Datos reales (NUNCA subir)
+data/raw/
+data/processed/
+!data/sample/
+
+# Credenciales
+*.json
+service_account*.json
+credentials*.json
+config_prod.yaml
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+*.egg-info/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Modelos grandes
+models/*.pkl
+models/*.joblib
+!models/.gitkeep
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db

@@ -1,0 +1,301 @@
+contractor_id,company_name,contractor_type,region,specialization,total_contracts,total_penalties,total_penalty_amount,late_deliveries,total_delay_days,max_delay_days,total_contract_value,years_as_contractor,single_supplier,has_penalty
+CON0001,Contratista 1 SAC,Eléctrico,Piura,Alta Tensión,47,8,1343.86,6,92,8,86292.08,4.3,0,0
+CON0002,Contratista 2 SAC,Eléctrico,Piura,Mecánico,31,8,6252.88,7,93,19,316959.42,4.0,0,0
+CON0003,Contratista 3 SAC,Obra Civil,La Libertad,Baja Tensión,13,9,10344.61,7,70,52,69931.13,7.5,1,0
+CON0004,Contratista 4 SAC,Mantenimiento,Arequipa,Mecánico,16,1,677.96,0,121,18,8655.47,13.4,0,0
+CON0005,Contratista 5 SAC,Eléctrico,Arequipa,Mecánico,43,2,10071.85,7,23,35,96758.75,6.0,1,0
+CON0006,Contratista 6 SAC,Eléctrico,Lima,Civil,21,3,4501.78,5,10,59,41585.34,11.4,0,0
+CON0007,Contratista 7 SAC,Logística,Arequipa,Civil,2,8,679.73,3,72,39,193742.26,1.9,0,0
+CON0008,Contratista 8 SAC,Mantenimiento,Lima,Civil,27,2,2789.08,12,11,44,57036.01,7.4,0,0
+CON0009,Contratista 9 SAC,Eléctrico,Cusco,Mecánico,38,6,876.89,13,34,3,21423.29,14.9,0,0
+CON0010,Contratista 10 SAC,Logística,Cusco,Alta Tensión,26,2,6025.67,11,140,8,21208.69,11.7,0,1
+CON0011,Contratista 11 SAC,Logística,Cusco,Alta Tensión,38,6,7112.06,7,22,40,146431.72,3.6,1,1
+CON0012,Contratista 12 SAC,Obra Civil,Arequipa,Mecánico,46,6,559.11,2,82,21,30868.46,7.8,0,0
+CON0013,Contratista 13 SAC,Logística,Arequipa,Mecánico,25,8,3527.51,12,166,17,145771.9,3.9,0,0
+CON0014,Contratista 14 SAC,Eléctrico,Lima,Baja Tensión,11,1,8426.87,3,87,11,23052.99,6.4,0,0
+CON0015,Contratista 15 SAC,Obra Civil,Piura,Civil,8,5,13757.11,14,79,41,38814.55,11.8,0,1
+CON0016,Contratista 16 SAC,Obra Civil,Lima,Civil,8,8,3602.78,5,96,42,62639.92,11.7,0,0
+CON0017,Contratista 17 SAC,Eléctrico,Cusco,Mecánico,33,1,15006.66,10,139,38,286814.59,3.8,0,1
+CON0018,Contratista 18 SAC,Mantenimiento,Lima,Mecánico,7,1,3836.0,6,33,8,268430.57,13.9,0,0
+CON0019,Contratista 19 SAC,Logística,Piura,Alta Tensión,38,4,2505.95,3,74,5,23177.05,9.1,0,0
+CON0020,Contratista 20 SAC,Obra Civil,Arequipa,Mecánico,21,9,9426.06,3,158,18,44350.82,6.0,1,1
+CON0021,Contratista 21 SAC,Mantenimiento,Lima,Alta Tensión,8,9,3396.05,6,127,47,16181.26,7.8,0,0
+CON0022,Contratista 22 SAC,Eléctrico,Cusco,Mecánico,21,9,3192.37,5,140,46,71331.94,9.3,1,0
+CON0023,Contratista 23 SAC,Logística,Cusco,Baja Tensión,20,7,3369.79,12,30,6,61726.55,8.6,0,0
+CON0024,Contratista 24 SAC,Logística,Arequipa,Baja Tensión,8,8,9379.57,10,129,15,231021.58,7.6,0,0
+CON0025,Contratista 25 SAC,Obra Civil,Lima,Alta Tensión,46,1,8917.22,7,102,4,265933.69,7.8,0,0
+CON0026,Contratista 26 SAC,Logística,Piura,Civil,31,4,2583.55,0,14,15,48380.63,3.1,0,0
+CON0027,Contratista 27 SAC,Logística,Arequipa,Baja Tensión,29,6,2027.07,9,56,0,67675.81,12.3,1,1
+CON0028,Contratista 28 SAC,Logística,Lima,Alta Tensión,48,5,3385.66,12,74,50,226563.86,8.4,0,0
+CON0029,Contratista 29 SAC,Logística,La Libertad,Mecánico,9,5,4252.19,10,33,36,164355.23,2.4,0,1
+CON0030,Contratista 30 SAC,Eléctrico,Cusco,Mecánico,15,6,1361.26,6,102,38,366.3,11.6,1,0
+CON0031,Contratista 31 SAC,Mantenimiento,Piura,Alta Tensión,30,2,7898.31,11,74,18,38575.01,14.0,0,0
+CON0032,Contratista 32 SAC,Eléctrico,Piura,Civil,26,2,3332.36,6,28,53,54779.09,14.2,0,0
+CON0033,Contratista 33 SAC,Eléctrico,Piura,Alta Tensión,10,9,2032.67,10,15,36,26099.64,5.9,0,0
+CON0034,Contratista 34 SAC,Obra Civil,Cusco,Alta Tensión,29,8,564.84,6,166,16,22260.82,2.5,1,0
+CON0035,Contratista 35 SAC,Logística,Lima,Baja Tensión,16,7,1364.59,6,76,25,3851.68,8.0,0,1
+CON0036,Contratista 36 SAC,Eléctrico,Arequipa,Alta Tensión,36,4,14907.29,9,36,21,103105.57,2.1,0,0
+CON0037,Contratista 37 SAC,Logística,Lima,Alta Tensión,20,5,1819.93,13,80,7,30450.31,14.0,0,0
+CON0038,Contratista 38 SAC,Eléctrico,Arequipa,Mecánico,45,9,924.78,9,148,32,5376.71,3.2,1,0
+CON0039,Contratista 39 SAC,Eléctrico,Piura,Baja Tensión,37,0,3087.16,7,171,1,26263.74,4.2,0,0
+CON0040,Contratista 40 SAC,Obra Civil,Lima,Mecánico,22,9,1834.26,8,123,29,161905.38,6.4,0,1
+CON0041,Contratista 41 SAC,Mantenimiento,Piura,Mecánico,7,0,178.96,8,18,46,190709.75,6.1,0,0
+CON0042,Contratista 42 SAC,Mantenimiento,La Libertad,Civil,23,3,1951.49,1,101,19,65984.05,12.0,1,0
+CON0043,Contratista 43 SAC,Eléctrico,Piura,Civil,41,1,3927.5,12,135,59,53797.53,7.1,1,0
+CON0044,Contratista 44 SAC,Obra Civil,Piura,Baja Tensión,40,6,4011.6,12,76,17,381008.45,3.0,1,0
+CON0045,Contratista 45 SAC,Logística,Arequipa,Baja Tensión,29,1,2204.62,6,40,42,22384.96,4.4,0,0
+CON0046,Contratista 46 SAC,Logística,La Libertad,Civil,16,9,2964.72,6,60,56,24252.94,7.9,0,0
+CON0047,Contratista 47 SAC,Eléctrico,Piura,Civil,38,1,16836.58,3,25,9,34512.36,2.6,0,0
+CON0048,Contratista 48 SAC,Mantenimiento,Piura,Civil,28,4,2368.84,8,70,23,18965.72,9.4,1,0
+CON0049,Contratista 49 SAC,Obra Civil,La Libertad,Civil,48,3,1493.56,7,102,55,47701.31,8.7,0,0
+CON0050,Contratista 50 SAC,Mantenimiento,La Libertad,Civil,38,7,1395.05,11,69,3,241725.8,10.9,0,1
+CON0051,Contratista 51 SAC,Logística,Lima,Mecánico,31,3,3060.28,0,106,36,95541.58,14.1,1,1
+CON0052,Contratista 52 SAC,Mantenimiento,Arequipa,Baja Tensión,14,5,7125.59,1,156,3,53093.74,13.7,0,0
+CON0053,Contratista 53 SAC,Logística,La Libertad,Mecánico,33,4,1153.28,12,106,12,272434.41,14.2,0,0
+CON0054,Contratista 54 SAC,Obra Civil,La Libertad,Mecánico,9,1,6177.25,14,102,24,4967.8,4.0,0,0
+CON0055,Contratista 55 SAC,Obra Civil,Cusco,Alta Tensión,27,7,106.88,12,18,12,23607.2,2.4,0,0
+CON0056,Contratista 56 SAC,Eléctrico,La Libertad,Mecánico,24,1,2714.45,1,67,17,83445.41,4.9,1,1
+CON0057,Contratista 57 SAC,Eléctrico,Arequipa,Civil,13,8,7477.54,11,69,58,95594.84,13.5,0,0
+CON0058,Contratista 58 SAC,Mantenimiento,Piura,Civil,26,8,2067.99,11,112,23,4036.12,14.6,0,1
+CON0059,Contratista 59 SAC,Obra Civil,Piura,Alta Tensión,29,2,4147.55,10,56,1,51590.31,13.0,0,1
+CON0060,Contratista 60 SAC,Obra Civil,Piura,Alta Tensión,49,3,1146.94,14,164,47,104740.78,2.1,0,0
+CON0061,Contratista 61 SAC,Eléctrico,Piura,Alta Tensión,43,7,6773.89,14,60,32,119756.19,14.2,0,0
+CON0062,Contratista 62 SAC,Logística,Cusco,Alta Tensión,28,8,268.48,7,91,57,101649.76,6.6,0,0
+CON0063,Contratista 63 SAC,Mantenimiento,La Libertad,Alta Tensión,28,2,9571.08,14,29,18,38649.11,0.6,0,0
+CON0064,Contratista 64 SAC,Mantenimiento,Piura,Mecánico,8,4,1104.46,0,152,8,9818.64,6.9,0,0
+CON0065,Contratista 65 SAC,Eléctrico,Lima,Alta Tensión,23,7,10373.19,3,126,27,55706.58,1.2,0,0
+CON0066,Contratista 66 SAC,Obra Civil,Piura,Mecánico,29,2,2173.41,9,114,34,13783.14,8.4,0,1
+CON0067,Contratista 67 SAC,Eléctrico,La Libertad,Baja Tensión,5,6,6412.98,11,5,56,294930.03,5.4,1,0
+CON0068,Contratista 68 SAC,Eléctrico,Piura,Alta Tensión,42,7,1922.62,4,17,38,64468.25,7.4,1,0
+CON0069,Contratista 69 SAC,Eléctrico,Cusco,Alta Tensión,7,9,11817.61,8,9,9,38164.0,9.4,1,0
+CON0070,Contratista 70 SAC,Eléctrico,Arequipa,Mecánico,42,2,677.02,6,91,0,145373.45,13.1,0,0
+CON0071,Contratista 71 SAC,Logística,Arequipa,Baja Tensión,36,1,983.24,7,138,41,68905.28,10.1,0,0
+CON0072,Contratista 72 SAC,Logística,La Libertad,Mecánico,41,9,3396.52,13,76,20,37111.3,6.8,0,1
+CON0073,Contratista 73 SAC,Obra Civil,Arequipa,Mecánico,27,6,427.45,10,100,8,167114.17,12.4,0,0
+CON0074,Contratista 74 SAC,Eléctrico,Arequipa,Alta Tensión,46,8,1090.66,8,83,59,201855.08,13.6,0,0
+CON0075,Contratista 75 SAC,Logística,Lima,Civil,2,0,14391.2,12,51,46,111782.01,2.2,0,0
+CON0076,Contratista 76 SAC,Obra Civil,La Libertad,Civil,25,2,18751.58,6,30,14,4810.3,8.2,1,0
+CON0077,Contratista 77 SAC,Eléctrico,La Libertad,Mecánico,9,4,2360.1,4,144,34,83545.5,4.6,0,1
+CON0078,Contratista 78 SAC,Mantenimiento,Arequipa,Alta Tensión,27,2,12838.36,12,109,56,144094.03,1.2,0,0
+CON0079,Contratista 79 SAC,Logística,Arequipa,Baja Tensión,1,0,3935.36,14,92,4,14676.49,10.2,1,1
+CON0080,Contratista 80 SAC,Obra Civil,Arequipa,Civil,23,6,1571.79,4,163,40,25964.0,13.0,0,0
+CON0081,Contratista 81 SAC,Mantenimiento,Cusco,Baja Tensión,10,6,6060.0,9,153,57,214127.53,2.9,1,0
+CON0082,Contratista 82 SAC,Eléctrico,Piura,Civil,42,9,5377.92,10,52,21,2032.69,12.3,1,0
+CON0083,Contratista 83 SAC,Eléctrico,Cusco,Alta Tensión,25,7,22606.59,5,144,40,139726.28,12.9,1,0
+CON0084,Contratista 84 SAC,Eléctrico,La Libertad,Mecánico,3,4,1539.75,4,85,22,64202.32,13.8,0,0
+CON0085,Contratista 85 SAC,Logística,Lima,Baja Tensión,6,9,5574.62,12,152,6,59198.54,4.3,0,1
+CON0086,Contratista 86 SAC,Obra Civil,Piura,Baja Tensión,6,4,267.13,11,1,55,712.18,13.6,0,0
+CON0087,Contratista 87 SAC,Mantenimiento,Lima,Mecánico,2,4,603.19,10,85,22,171146.08,5.1,0,0
+CON0088,Contratista 88 SAC,Obra Civil,La Libertad,Baja Tensión,18,0,19.63,8,132,43,44601.35,8.5,0,0
+CON0089,Contratista 89 SAC,Logística,La Libertad,Civil,23,9,37626.02,2,3,24,77819.46,1.2,0,0
+CON0090,Contratista 90 SAC,Obra Civil,Lima,Mecánico,2,4,8104.36,2,163,26,113103.43,1.1,0,0
+CON0091,Contratista 91 SAC,Logística,Lima,Civil,12,5,7725.82,14,5,40,121277.67,10.9,0,0
+CON0092,Contratista 92 SAC,Eléctrico,Lima,Civil,22,0,3563.96,6,148,5,312311.25,6.9,1,0
+CON0093,Contratista 93 SAC,Mantenimiento,La Libertad,Alta Tensión,37,6,1783.85,6,117,54,75787.76,4.2,1,0
+CON0094,Contratista 94 SAC,Eléctrico,Arequipa,Civil,20,0,820.04,5,88,33,51035.83,3.3,0,0
+CON0095,Contratista 95 SAC,Obra Civil,Lima,Alta Tensión,39,1,1675.09,2,153,8,307269.16,10.2,0,0
+CON0096,Contratista 96 SAC,Eléctrico,Piura,Baja Tensión,24,1,2357.79,13,166,59,102753.03,0.5,1,0
+CON0097,Contratista 97 SAC,Mantenimiento,La Libertad,Baja Tensión,48,4,7059.29,12,160,48,35403.61,12.2,0,0
+CON0098,Contratista 98 SAC,Eléctrico,Cusco,Alta Tensión,20,9,3878.97,6,13,32,13520.62,1.6,1,1
+CON0099,Contratista 99 SAC,Mantenimiento,Cusco,Civil,1,6,403.25,4,55,50,184867.59,3.3,1,0
+CON0100,Contratista 100 SAC,Mantenimiento,Piura,Mecánico,1,0,90.97,6,80,59,44970.17,6.1,0,0
+CON0101,Contratista 101 SAC,Eléctrico,Arequipa,Mecánico,17,9,539.78,1,148,5,108019.21,7.5,1,0
+CON0102,Contratista 102 SAC,Logística,Lima,Alta Tensión,1,0,2642.39,5,45,36,63641.99,5.6,0,0
+CON0103,Contratista 103 SAC,Obra Civil,La Libertad,Baja Tensión,45,0,13529.73,13,143,30,22180.67,5.2,0,1
+CON0104,Contratista 104 SAC,Logística,Lima,Baja Tensión,30,5,5072.31,7,15,33,92051.62,14.5,0,0
+CON0105,Contratista 105 SAC,Logística,La Libertad,Mecánico,41,1,8093.05,0,119,40,6260.23,9.8,0,1
+CON0106,Contratista 106 SAC,Eléctrico,Cusco,Alta Tensión,47,0,3140.31,3,83,28,53331.4,0.8,1,1
+CON0107,Contratista 107 SAC,Obra Civil,Lima,Mecánico,3,5,2244.47,10,156,57,79101.35,6.7,0,0
+CON0108,Contratista 108 SAC,Obra Civil,Piura,Civil,46,1,573.69,0,7,13,57278.43,13.2,0,0
+CON0109,Contratista 109 SAC,Logística,Arequipa,Civil,11,5,10434.67,13,87,35,138099.71,4.9,0,0
+CON0110,Contratista 110 SAC,Eléctrico,Piura,Alta Tensión,24,9,7642.98,0,130,35,175982.46,1.9,1,0
+CON0111,Contratista 111 SAC,Obra Civil,Arequipa,Alta Tensión,22,7,920.32,9,18,52,147509.53,11.5,1,0
+CON0112,Contratista 112 SAC,Logística,Lima,Civil,44,1,3589.87,11,96,14,3958.62,9.3,1,0
+CON0113,Contratista 113 SAC,Obra Civil,Lima,Baja Tensión,45,8,3341.05,13,65,7,21583.13,8.8,0,0
+CON0114,Contratista 114 SAC,Eléctrico,Arequipa,Alta Tensión,26,7,4905.37,13,78,25,76918.09,1.3,0,0
+CON0115,Contratista 115 SAC,Eléctrico,Cusco,Civil,13,9,14611.19,10,85,35,273063.39,2.5,0,0
+CON0116,Contratista 116 SAC,Eléctrico,La Libertad,Civil,1,0,4334.78,7,123,47,180154.79,9.5,0,1
+CON0117,Contratista 117 SAC,Obra Civil,Piura,Baja Tensión,24,6,3885.01,6,149,20,184854.89,3.5,0,0
+CON0118,Contratista 118 SAC,Mantenimiento,Piura,Baja Tensión,10,9,258.17,11,45,27,36126.86,7.8,0,1
+CON0119,Contratista 119 SAC,Obra Civil,Piura,Baja Tensión,35,5,324.87,9,112,3,56115.08,8.4,0,0
+CON0120,Contratista 120 SAC,Mantenimiento,Lima,Baja Tensión,24,5,1037.25,12,90,15,63621.11,4.6,1,0
+CON0121,Contratista 121 SAC,Eléctrico,Piura,Mecánico,28,5,165.05,0,140,21,17122.92,14.3,0,0
+CON0122,Contratista 122 SAC,Logística,La Libertad,Baja Tensión,36,5,6800.27,10,32,11,3156.1,12.7,0,0
+CON0123,Contratista 123 SAC,Mantenimiento,La Libertad,Mecánico,16,9,6424.65,13,132,15,293563.3,11.0,0,0
+CON0124,Contratista 124 SAC,Eléctrico,Arequipa,Alta Tensión,40,6,731.24,12,76,50,27537.49,1.6,1,0
+CON0125,Contratista 125 SAC,Eléctrico,Lima,Civil,16,2,9041.85,1,154,39,27436.96,2.0,1,1
+CON0126,Contratista 126 SAC,Mantenimiento,La Libertad,Mecánico,17,5,840.83,3,120,37,8706.13,7.6,1,0
+CON0127,Contratista 127 SAC,Logística,Cusco,Alta Tensión,15,2,1791.78,0,127,41,263816.63,2.8,0,0
+CON0128,Contratista 128 SAC,Eléctrico,Lima,Alta Tensión,16,6,1431.59,2,77,36,86687.48,14.7,1,1
+CON0129,Contratista 129 SAC,Mantenimiento,Lima,Mecánico,15,6,2328.52,7,151,28,109972.35,2.8,0,0
+CON0130,Contratista 130 SAC,Logística,La Libertad,Alta Tensión,34,7,1469.6,7,66,17,242562.19,7.6,0,0
+CON0131,Contratista 131 SAC,Logística,Cusco,Alta Tensión,11,1,3356.45,7,114,9,42406.73,5.8,1,0
+CON0132,Contratista 132 SAC,Eléctrico,Arequipa,Mecánico,1,8,2616.24,5,62,41,97155.85,9.8,0,1
+CON0133,Contratista 133 SAC,Obra Civil,La Libertad,Alta Tensión,15,4,21551.13,5,112,38,3957.22,2.4,0,0
+CON0134,Contratista 134 SAC,Obra Civil,Cusco,Baja Tensión,26,8,287.76,4,93,17,20674.44,6.7,0,0
+CON0135,Contratista 135 SAC,Eléctrico,Lima,Baja Tensión,4,9,766.81,12,47,0,177931.21,4.5,0,0
+CON0136,Contratista 136 SAC,Logística,Cusco,Civil,43,4,271.36,8,11,38,145572.31,13.4,1,1
+CON0137,Contratista 137 SAC,Eléctrico,Lima,Alta Tensión,5,6,4915.37,3,155,20,43177.22,1.1,0,0
+CON0138,Contratista 138 SAC,Mantenimiento,La Libertad,Civil,35,8,280.26,9,171,0,47290.48,13.7,0,1
+CON0139,Contratista 139 SAC,Obra Civil,La Libertad,Baja Tensión,13,3,9052.87,14,170,14,76261.4,12.6,0,0
+CON0140,Contratista 140 SAC,Mantenimiento,Piura,Baja Tensión,10,1,3586.57,11,144,3,24.1,4.8,0,1
+CON0141,Contratista 141 SAC,Eléctrico,Piura,Baja Tensión,11,8,3743.38,11,39,59,27607.55,11.9,0,0
+CON0142,Contratista 142 SAC,Eléctrico,Piura,Alta Tensión,18,1,4123.06,11,176,19,23348.66,1.0,0,0
+CON0143,Contratista 143 SAC,Logística,La Libertad,Alta Tensión,34,2,936.55,6,84,9,28832.62,14.5,0,1
+CON0144,Contratista 144 SAC,Logística,Arequipa,Baja Tensión,39,9,1101.3,0,56,22,163941.19,8.1,0,0
+CON0145,Contratista 145 SAC,Logística,La Libertad,Civil,41,1,1919.62,14,86,40,32805.12,4.9,1,0
+CON0146,Contratista 146 SAC,Mantenimiento,Cusco,Civil,42,2,4500.81,8,83,33,21260.1,5.8,0,0
+CON0147,Contratista 147 SAC,Logística,La Libertad,Mecánico,23,5,1179.36,6,120,59,70171.07,1.5,0,0
+CON0148,Contratista 148 SAC,Eléctrico,La Libertad,Baja Tensión,7,2,618.37,9,73,45,200727.0,14.8,0,0
+CON0149,Contratista 149 SAC,Logística,Lima,Civil,39,9,17552.31,11,106,47,27621.44,1.1,0,0
+CON0150,Contratista 150 SAC,Obra Civil,Lima,Baja Tensión,3,7,111.14,8,123,32,8179.18,10.0,1,0
+CON0151,Contratista 151 SAC,Logística,Lima,Civil,12,5,8115.08,6,99,33,44068.52,6.9,1,0
+CON0152,Contratista 152 SAC,Mantenimiento,La Libertad,Mecánico,7,6,7756.67,1,42,38,137694.55,14.3,0,0
+CON0153,Contratista 153 SAC,Obra Civil,Arequipa,Mecánico,49,0,1763.52,14,118,9,80004.34,4.1,1,0
+CON0154,Contratista 154 SAC,Obra Civil,Cusco,Baja Tensión,26,2,728.75,5,22,53,169714.06,8.2,0,0
+CON0155,Contratista 155 SAC,Obra Civil,Cusco,Civil,33,2,786.95,9,154,19,320873.11,7.5,0,0
+CON0156,Contratista 156 SAC,Mantenimiento,Arequipa,Alta Tensión,37,1,5977.24,11,36,0,157340.73,10.7,0,0
+CON0157,Contratista 157 SAC,Eléctrico,Arequipa,Mecánico,48,6,5147.39,10,133,12,92584.39,1.5,0,1
+CON0158,Contratista 158 SAC,Logística,Cusco,Baja Tensión,15,8,7633.43,3,64,0,67991.82,3.3,0,0
+CON0159,Contratista 159 SAC,Obra Civil,Piura,Baja Tensión,2,3,13861.44,2,133,4,4089.4,3.6,1,1
+CON0160,Contratista 160 SAC,Obra Civil,Lima,Civil,41,4,5887.1,1,177,15,415549.55,11.2,0,1
+CON0161,Contratista 161 SAC,Obra Civil,Lima,Baja Tensión,7,2,847.13,5,21,14,48366.63,3.2,1,1
+CON0162,Contratista 162 SAC,Eléctrico,Cusco,Mecánico,32,8,1394.88,7,104,48,16514.38,8.8,1,0
+CON0163,Contratista 163 SAC,Eléctrico,Arequipa,Baja Tensión,4,3,9231.94,5,87,27,109873.89,3.6,0,1
+CON0164,Contratista 164 SAC,Mantenimiento,Piura,Baja Tensión,20,4,1174.22,8,152,30,33447.78,13.0,0,1
+CON0165,Contratista 165 SAC,Eléctrico,Cusco,Alta Tensión,36,0,376.43,13,124,22,88135.39,14.2,0,0
+CON0166,Contratista 166 SAC,Logística,Lima,Alta Tensión,32,1,6074.83,4,78,47,88374.59,8.0,1,0
+CON0167,Contratista 167 SAC,Mantenimiento,La Libertad,Mecánico,28,8,2575.23,1,89,44,59010.3,5.6,0,0
+CON0168,Contratista 168 SAC,Mantenimiento,Arequipa,Civil,13,1,12631.15,7,50,42,180861.24,3.9,0,0
+CON0169,Contratista 169 SAC,Logística,La Libertad,Alta Tensión,1,4,5252.76,8,175,16,30784.0,1.2,0,0
+CON0170,Contratista 170 SAC,Logística,Cusco,Civil,35,7,473.86,13,101,48,59535.39,4.4,0,0
+CON0171,Contratista 171 SAC,Logística,Lima,Mecánico,48,2,14768.79,9,105,33,77152.42,10.0,0,0
+CON0172,Contratista 172 SAC,Mantenimiento,Piura,Alta Tensión,30,5,1495.79,3,59,12,108952.78,8.2,0,0
+CON0173,Contratista 173 SAC,Mantenimiento,La Libertad,Civil,36,3,2056.5,5,45,13,153234.66,14.2,0,0
+CON0174,Contratista 174 SAC,Mantenimiento,Piura,Alta Tensión,25,6,2573.0,14,35,10,50220.83,6.2,0,0
+CON0175,Contratista 175 SAC,Logística,Lima,Mecánico,16,9,262.91,10,165,27,103859.1,10.6,0,1
+CON0176,Contratista 176 SAC,Logística,La Libertad,Mecánico,19,2,3431.01,9,10,41,16323.8,7.6,0,0
+CON0177,Contratista 177 SAC,Obra Civil,Piura,Alta Tensión,1,5,658.06,7,11,31,269782.42,7.9,0,0
+CON0178,Contratista 178 SAC,Eléctrico,Piura,Civil,5,9,2562.22,8,169,34,48298.16,4.4,0,0
+CON0179,Contratista 179 SAC,Obra Civil,La Libertad,Baja Tensión,22,8,2159.38,11,38,58,130756.24,7.1,0,0
+CON0180,Contratista 180 SAC,Logística,Lima,Baja Tensión,24,9,7410.51,4,138,30,2055.08,7.3,0,1
+CON0181,Contratista 181 SAC,Mantenimiento,Piura,Alta Tensión,43,0,8127.09,11,35,16,22964.86,10.7,0,1
+CON0182,Contratista 182 SAC,Logística,Cusco,Civil,45,2,832.71,5,51,46,66764.04,14.1,0,0
+CON0183,Contratista 183 SAC,Eléctrico,La Libertad,Baja Tensión,37,1,2282.88,10,30,8,210580.58,5.3,0,1
+CON0184,Contratista 184 SAC,Obra Civil,Arequipa,Mecánico,36,7,2336.86,3,32,9,74919.95,1.1,0,0
+CON0185,Contratista 185 SAC,Obra Civil,Arequipa,Civil,36,6,820.9,4,140,7,265741.15,7.7,0,0
+CON0186,Contratista 186 SAC,Mantenimiento,Lima,Baja Tensión,4,1,8008.68,6,145,20,66125.5,8.4,1,0
+CON0187,Contratista 187 SAC,Obra Civil,Cusco,Civil,36,5,6141.81,8,168,12,67422.55,2.9,1,1
+CON0188,Contratista 188 SAC,Obra Civil,Piura,Alta Tensión,18,2,1055.96,9,57,58,12754.57,11.5,1,0
+CON0189,Contratista 189 SAC,Logística,Arequipa,Civil,16,7,2284.23,10,151,49,162280.81,14.8,1,0
+CON0190,Contratista 190 SAC,Obra Civil,Lima,Baja Tensión,41,9,559.16,12,127,4,28364.41,14.2,0,1
+CON0191,Contratista 191 SAC,Obra Civil,Cusco,Alta Tensión,18,2,4947.08,5,30,5,229871.75,3.4,0,0
+CON0192,Contratista 192 SAC,Obra Civil,Cusco,Civil,22,9,646.97,13,54,29,241714.58,13.2,0,0
+CON0193,Contratista 193 SAC,Mantenimiento,Lima,Mecánico,2,8,21320.03,5,9,30,287015.94,10.7,0,1
+CON0194,Contratista 194 SAC,Mantenimiento,Lima,Baja Tensión,21,0,7586.16,7,129,16,73444.95,7.1,0,0
+CON0195,Contratista 195 SAC,Logística,Piura,Alta Tensión,36,4,2473.44,10,14,10,113039.34,8.3,1,0
+CON0196,Contratista 196 SAC,Obra Civil,Lima,Civil,44,2,4320.44,3,2,19,150740.44,12.8,0,0
+CON0197,Contratista 197 SAC,Mantenimiento,Piura,Mecánico,39,5,12114.83,2,42,47,14042.9,7.5,0,0
+CON0198,Contratista 198 SAC,Mantenimiento,Piura,Baja Tensión,47,9,4038.29,13,158,8,91868.66,5.9,0,0
+CON0199,Contratista 199 SAC,Logística,La Libertad,Mecánico,39,1,958.82,6,66,1,3489.99,7.7,0,0
+CON0200,Contratista 200 SAC,Eléctrico,Cusco,Civil,29,8,2379.73,4,55,36,68829.12,8.9,0,0
+CON0201,Contratista 201 SAC,Obra Civil,Cusco,Civil,26,5,9262.16,1,62,0,16823.25,3.2,1,0
+CON0202,Contratista 202 SAC,Mantenimiento,Cusco,Alta Tensión,21,6,5167.12,1,14,3,20202.19,13.6,0,1
+CON0203,Contratista 203 SAC,Logística,La Libertad,Mecánico,17,4,5259.47,10,108,35,45420.52,10.3,1,1
+CON0204,Contratista 204 SAC,Logística,Piura,Alta Tensión,16,8,10080.32,5,115,53,56640.38,9.7,0,0
+CON0205,Contratista 205 SAC,Logística,Piura,Baja Tensión,31,0,11220.31,7,91,57,97596.76,1.9,1,0
+CON0206,Contratista 206 SAC,Mantenimiento,Lima,Alta Tensión,9,4,12615.7,0,137,24,7734.38,9.3,0,1
+CON0207,Contratista 207 SAC,Obra Civil,La Libertad,Baja Tensión,31,9,498.27,14,165,2,70055.81,2.3,0,0
+CON0208,Contratista 208 SAC,Eléctrico,Lima,Civil,14,5,3927.69,10,46,8,20165.75,1.6,0,0
+CON0209,Contratista 209 SAC,Obra Civil,La Libertad,Civil,49,6,6745.18,5,56,21,85325.77,8.1,1,1
+CON0210,Contratista 210 SAC,Logística,Lima,Mecánico,37,3,7071.96,11,49,22,101446.77,6.3,1,1
+CON0211,Contratista 211 SAC,Logística,Arequipa,Baja Tensión,2,0,4666.12,1,70,11,81352.94,9.0,0,1
+CON0212,Contratista 212 SAC,Eléctrico,Cusco,Civil,48,7,912.33,1,142,9,134053.93,1.8,0,0
+CON0213,Contratista 213 SAC,Obra Civil,Cusco,Mecánico,46,9,7983.12,6,145,33,40888.48,6.7,1,0
+CON0214,Contratista 214 SAC,Logística,Piura,Mecánico,14,3,6366.82,9,81,42,144862.34,3.0,0,0
+CON0215,Contratista 215 SAC,Logística,Arequipa,Alta Tensión,33,2,450.37,0,115,9,56698.53,14.8,0,0
+CON0216,Contratista 216 SAC,Obra Civil,Cusco,Mecánico,35,6,3116.33,5,104,29,66200.61,8.6,0,0
+CON0217,Contratista 217 SAC,Logística,Piura,Civil,39,1,955.67,13,87,21,104441.43,10.5,0,0
+CON0218,Contratista 218 SAC,Obra Civil,Arequipa,Alta Tensión,47,7,2058.5,6,1,5,1852.9,5.2,1,1
+CON0219,Contratista 219 SAC,Logística,Cusco,Baja Tensión,20,5,91.23,13,103,49,106129.98,1.9,1,1
+CON0220,Contratista 220 SAC,Obra Civil,Lima,Baja Tensión,2,6,2556.88,7,83,1,96386.76,14.7,0,0
+CON0221,Contratista 221 SAC,Eléctrico,La Libertad,Civil,41,4,3991.17,6,42,29,37084.21,4.7,0,1
+CON0222,Contratista 222 SAC,Logística,Arequipa,Civil,19,8,4832.43,5,153,1,8969.97,6.6,1,1
+CON0223,Contratista 223 SAC,Eléctrico,Piura,Alta Tensión,37,4,5445.64,8,70,31,9533.92,9.9,0,0
+CON0224,Contratista 224 SAC,Logística,Arequipa,Alta Tensión,18,4,9048.33,12,165,41,256685.99,0.9,1,0
+CON0225,Contratista 225 SAC,Logística,Piura,Civil,16,2,1213.31,2,93,15,116886.09,12.2,0,0
+CON0226,Contratista 226 SAC,Mantenimiento,Arequipa,Civil,4,0,641.91,10,41,11,13593.73,8.3,0,0
+CON0227,Contratista 227 SAC,Obra Civil,Piura,Baja Tensión,12,1,9537.1,5,132,0,44118.01,4.5,1,0
+CON0228,Contratista 228 SAC,Eléctrico,Cusco,Baja Tensión,29,7,851.65,3,138,52,89767.26,1.4,0,0
+CON0229,Contratista 229 SAC,Eléctrico,Lima,Baja Tensión,7,0,18396.64,1,64,7,180528.07,2.9,0,0
+CON0230,Contratista 230 SAC,Eléctrico,Cusco,Civil,14,6,9242.86,0,33,47,4464.28,13.5,0,0
+CON0231,Contratista 231 SAC,Obra Civil,Lima,Mecánico,12,4,3474.51,11,119,49,27001.65,10.4,0,1
+CON0232,Contratista 232 SAC,Mantenimiento,Cusco,Civil,35,2,19928.73,11,0,12,220499.56,4.1,0,0
+CON0233,Contratista 233 SAC,Eléctrico,Cusco,Civil,5,6,512.25,13,129,14,920.78,1.5,1,1
+CON0234,Contratista 234 SAC,Obra Civil,Arequipa,Baja Tensión,17,8,1805.32,0,147,52,22489.4,10.5,1,0
+CON0235,Contratista 235 SAC,Logística,La Libertad,Civil,42,1,5083.66,10,60,43,319477.3,8.8,0,0
+CON0236,Contratista 236 SAC,Eléctrico,Piura,Alta Tensión,32,7,2153.97,9,148,7,95036.95,6.4,0,1
+CON0237,Contratista 237 SAC,Eléctrico,Piura,Civil,10,8,13181.38,2,87,9,30336.63,5.8,0,0
+CON0238,Contratista 238 SAC,Mantenimiento,Piura,Civil,43,2,339.39,3,67,45,6934.05,3.6,0,0
+CON0239,Contratista 239 SAC,Eléctrico,Lima,Civil,17,1,3986.01,1,126,4,2859.63,10.2,0,1
+CON0240,Contratista 240 SAC,Eléctrico,Piura,Civil,5,6,4468.57,12,139,49,28069.99,14.6,1,0
+CON0241,Contratista 241 SAC,Logística,Piura,Mecánico,45,4,5288.24,11,21,18,213272.27,3.0,0,0
+CON0242,Contratista 242 SAC,Obra Civil,Arequipa,Civil,42,4,1476.33,10,147,46,53770.65,9.2,1,0
+CON0243,Contratista 243 SAC,Obra Civil,Cusco,Alta Tensión,9,9,2267.24,10,81,37,127415.7,6.7,0,1
+CON0244,Contratista 244 SAC,Mantenimiento,Piura,Alta Tensión,49,4,9279.27,13,128,58,250451.81,7.0,0,0
+CON0245,Contratista 245 SAC,Logística,La Libertad,Civil,33,3,1084.21,10,29,10,52431.7,4.2,0,0
+CON0246,Contratista 246 SAC,Obra Civil,Piura,Baja Tensión,36,4,8768.5,0,125,52,21229.93,12.5,0,0
+CON0247,Contratista 247 SAC,Logística,Lima,Mecánico,36,3,4135.17,3,96,42,72798.28,7.5,0,0
+CON0248,Contratista 248 SAC,Obra Civil,Lima,Civil,18,5,7181.36,14,23,19,238687.68,8.4,1,1
+CON0249,Contratista 249 SAC,Logística,Lima,Civil,9,3,6251.96,6,13,19,163155.27,4.9,0,0
+CON0250,Contratista 250 SAC,Mantenimiento,Piura,Civil,29,1,1162.89,9,35,20,6809.67,3.1,1,0
+CON0251,Contratista 251 SAC,Eléctrico,Arequipa,Baja Tensión,14,8,4206.06,10,23,17,117951.7,1.7,0,0
+CON0252,Contratista 252 SAC,Mantenimiento,La Libertad,Baja Tensión,25,1,10114.29,5,94,56,84839.27,10.9,1,1
+CON0253,Contratista 253 SAC,Obra Civil,Piura,Baja Tensión,15,8,2829.19,5,54,49,238014.86,3.3,0,0
+CON0254,Contratista 254 SAC,Mantenimiento,Arequipa,Mecánico,6,9,16994.62,10,23,9,13065.71,10.5,1,1
+CON0255,Contratista 255 SAC,Eléctrico,Arequipa,Alta Tensión,42,5,3009.36,8,151,33,76364.71,6.2,0,1
+CON0256,Contratista 256 SAC,Mantenimiento,Piura,Mecánico,29,8,770.34,13,25,25,211579.6,6.5,1,0
+CON0257,Contratista 257 SAC,Obra Civil,Piura,Baja Tensión,15,8,2466.85,14,79,29,52767.31,7.3,1,0
+CON0258,Contratista 258 SAC,Obra Civil,Arequipa,Alta Tensión,29,2,15151.87,1,165,8,65777.02,5.8,0,0
+CON0259,Contratista 259 SAC,Mantenimiento,Arequipa,Alta Tensión,4,0,1926.26,3,64,45,7306.62,2.0,0,1
+CON0260,Contratista 260 SAC,Eléctrico,Arequipa,Baja Tensión,18,0,10128.49,4,74,50,32592.91,5.0,0,0
+CON0261,Contratista 261 SAC,Mantenimiento,Piura,Baja Tensión,49,2,10653.7,0,178,30,39231.2,10.1,1,0
+CON0262,Contratista 262 SAC,Eléctrico,Arequipa,Mecánico,44,4,2155.35,7,162,41,290265.09,10.2,0,1
+CON0263,Contratista 263 SAC,Logística,Lima,Baja Tensión,39,2,434.64,7,42,54,33221.56,4.7,0,0
+CON0264,Contratista 264 SAC,Eléctrico,Piura,Alta Tensión,16,8,6446.89,5,28,3,61779.62,7.2,0,0
+CON0265,Contratista 265 SAC,Logística,Lima,Civil,11,8,1866.29,11,164,5,111262.33,3.3,0,0
+CON0266,Contratista 266 SAC,Mantenimiento,Cusco,Baja Tensión,14,2,7637.53,4,80,13,17695.6,3.6,1,0
+CON0267,Contratista 267 SAC,Eléctrico,Piura,Baja Tensión,3,2,2922.85,7,53,3,66639.31,0.8,0,1
+CON0268,Contratista 268 SAC,Logística,Cusco,Mecánico,42,4,3320.53,2,38,25,134147.03,13.5,0,0
+CON0269,Contratista 269 SAC,Logística,Arequipa,Mecánico,38,1,7523.35,2,41,46,201631.81,3.6,1,0
+CON0270,Contratista 270 SAC,Logística,Arequipa,Baja Tensión,45,5,2409.27,1,155,47,98419.3,3.8,0,1
+CON0271,Contratista 271 SAC,Obra Civil,La Libertad,Alta Tensión,42,6,2927.09,4,28,38,110579.86,4.6,0,0
+CON0272,Contratista 272 SAC,Mantenimiento,Arequipa,Alta Tensión,18,8,2359.55,2,170,16,13499.93,2.3,0,1
+CON0273,Contratista 273 SAC,Logística,Cusco,Civil,20,5,2289.11,2,130,18,291464.08,9.8,0,1
+CON0274,Contratista 274 SAC,Eléctrico,Arequipa,Baja Tensión,48,2,3732.18,14,137,50,14222.52,1.6,0,0
+CON0275,Contratista 275 SAC,Logística,Piura,Mecánico,25,4,8272.16,5,141,48,149020.23,2.4,1,0
+CON0276,Contratista 276 SAC,Obra Civil,Arequipa,Alta Tensión,38,3,2245.27,7,174,5,30763.49,9.8,0,0
+CON0277,Contratista 277 SAC,Mantenimiento,La Libertad,Civil,13,4,3714.36,1,41,28,271195.5,5.4,0,0
+CON0278,Contratista 278 SAC,Obra Civil,Arequipa,Baja Tensión,4,7,5554.35,3,93,10,127282.12,10.8,0,0
+CON0279,Contratista 279 SAC,Obra Civil,Cusco,Alta Tensión,14,7,1569.72,10,159,15,140166.68,8.6,0,0
+CON0280,Contratista 280 SAC,Obra Civil,Cusco,Baja Tensión,33,5,1625.35,6,31,29,24725.59,4.2,1,0
+CON0281,Contratista 281 SAC,Eléctrico,Arequipa,Baja Tensión,28,0,13546.24,0,169,24,58526.18,9.9,0,1
+CON0282,Contratista 282 SAC,Mantenimiento,Cusco,Alta Tensión,37,7,6428.35,0,159,39,96184.58,2.2,0,0
+CON0283,Contratista 283 SAC,Mantenimiento,Cusco,Alta Tensión,8,7,4304.12,11,25,10,146956.13,8.3,0,0
+CON0284,Contratista 284 SAC,Eléctrico,La Libertad,Alta Tensión,44,1,5216.65,12,114,6,10976.95,6.8,0,0
+CON0285,Contratista 285 SAC,Mantenimiento,Piura,Baja Tensión,34,3,148.69,9,128,25,327982.92,4.4,0,1
+CON0286,Contratista 286 SAC,Obra Civil,La Libertad,Baja Tensión,44,1,4813.02,6,55,55,220928.3,9.3,0,0
+CON0287,Contratista 287 SAC,Mantenimiento,Lima,Civil,5,3,3561.74,13,121,21,31518.84,13.1,0,1
+CON0288,Contratista 288 SAC,Eléctrico,La Libertad,Mecánico,5,9,3945.53,6,105,24,173025.19,15.0,1,0
+CON0289,Contratista 289 SAC,Obra Civil,Arequipa,Baja Tensión,31,6,2226.94,0,129,18,73048.34,9.3,0,0
+CON0290,Contratista 290 SAC,Eléctrico,Piura,Mecánico,45,8,424.92,0,80,30,61953.71,6.4,1,0
+CON0291,Contratista 291 SAC,Logística,Arequipa,Alta Tensión,9,7,1074.26,3,157,25,37751.07,3.8,1,0
+CON0292,Contratista 292 SAC,Obra Civil,Lima,Baja Tensión,42,8,15053.69,4,119,41,86980.94,4.2,0,0
+CON0293,Contratista 293 SAC,Obra Civil,Piura,Civil,32,7,2627.16,4,51,40,130892.27,7.5,0,0
+CON0294,Contratista 294 SAC,Mantenimiento,Cusco,Civil,33,1,3143.2,3,90,35,52921.52,5.8,0,0
+CON0295,Contratista 295 SAC,Obra Civil,La Libertad,Mecánico,3,6,270.75,7,136,22,99214.42,13.8,0,1
+CON0296,Contratista 296 SAC,Eléctrico,Arequipa,Alta Tensión,30,1,191.45,6,21,46,120168.52,5.8,1,0
+CON0297,Contratista 297 SAC,Mantenimiento,Lima,Mecánico,12,1,6314.75,8,33,12,124175.02,5.9,0,1
+CON0298,Contratista 298 SAC,Logística,Cusco,Alta Tensión,29,3,3861.98,6,109,24,5336.5,6.1,0,0
+CON0299,Contratista 299 SAC,Eléctrico,La Libertad,Civil,3,0,3553.56,14,48,1,196431.31,12.6,0,0
+CON0300,Contratista 300 SAC,Logística,Cusco,Mecánico,26,4,1392.78,9,128,1,61295.68,9.9,0,0
